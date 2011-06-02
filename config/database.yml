@@ -37,7 +37,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: lgr_test
+  database: lgr_development #should be lgr_test
   pool: 5
   username: lgr
   password:
